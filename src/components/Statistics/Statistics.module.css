@@ -1,0 +1,7 @@
+.statistics {
+  display: grid;
+}
+
+.statisticsValue {
+  margin-left: 10px;
+}
